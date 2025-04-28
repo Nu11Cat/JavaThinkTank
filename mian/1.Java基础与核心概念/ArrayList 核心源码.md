@@ -681,8 +681,6 @@ v.elementData = Arrays.copyOf(elementData, size);
 
 克隆的是数组本身，**但元素是引用拷贝**，如果元素是对象，改一个地方，另一个也会改。
 
-## 
-
 
 
 
